@@ -4,75 +4,115 @@
 <head>
 	
 	<meta charset="UTF-8">
+	
 	<link rel="stylesheet" type="text/css" href="style.css">
 	
 	<script type="text/javascript" src="jquery.js" ></script>
+	
 	<script type="text/javascript" src="app.js"></script>
+	
+	<link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+	
 	<title>document</title>
 
 </head>
 
 <body>
 
-<div id="main">
+	<div id="main">
 
-	<div id="recherche">
+		<div id="todo">
 
-		
 			
-			<h1>todos</h1>
-
-				<p>
-
-					<input type="text" placeholder="what needs to be done?" name="recherche" id="recherche">
-
-				</p>
-		
-		
 				
-				<ul id="todo">
+				<h1>Todos</h1>
+			
+			
+				
 					
-					<li>
+					<div class="hello">
+
+						<input type="text" placeholder="what needs to be done?" name="rechercher" id="recherche">
+
+					</div>
+			
+			
+					
+					<ul id="todoshermanos">
 						
-						<p><input type="checkbox" name="html" id="html"/>html</p>
+						<li>
+							
+							<div class="description hello">
+							
+								<input type="checkbox" name="html" id="html" class="check"/>html
 
-					</li>
-					
-					<li>
+							</div>
+
+						</li>
 						
-						<p><input type="checkbox" name="javascript" id="javascript"/><span id="java">javascript</span></p>
+						<li>
+							
+							<div id="language" class="hello">
 
-					</li>
-					
-					<li>
-						<p><input type="checkbox" name="css" id="css">css</p>
+								<input type="checkbox" name="javascript" id="javascript" class="check"/>
 
-					</li>
+									<span id="java">javascript</span>
 
-				</ul>
-		
+							</div>
 
-
-				<nav>
-					
-					<ul id="footer">
+						</li>
 						
-						<li><a href="#">3 items</a></li>
-						<li><a href="#">All</a></li>
-						<li><a href="#">Active</a></li>
-						<li><a href="#">Completed</a></li>
-						<li><a href="#">Machin</a></li>
-					
+						<li>
+							
+							<div class="description hello">
+
+								<input type="checkbox" name="css" id="css" class="check">css
+
+							</div>
+
+						</li>
+
 					</ul>
+			
 
-				</nav>
 
-		</div>
+					<nav>
+						
+						<ul id="footer">
+							
+							<li>
+								
+								<button type="button" href="#">3 items</button>
+
+							</li>
+							
+							<li>
+
+								<button type="button" href="#">All</button>
+
+							</li>
+							
+							<li>
+
+								<button type="button" href="#">Active</button>
+
+							</li>
+							
+							<li>
+								<button type="button" href="#">Completed</button>
+
+							</li>
+						
+						</ul>
+
+				
+				  	</nav>
+
+		</div>  	
 
 	</div>
 
-</div>	
-
+		
 </body>
 
 </html>

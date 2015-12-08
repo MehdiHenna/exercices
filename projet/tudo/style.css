@@ -1,13 +1,48 @@
 body
 {
-	background-color: #3F51B5;
+	background-color: #e0e0e0;
+	font-family: 'Lobster', cursive;
+
+}
+
+h1
+{
+	text-align: center;
+	font-size: 100px;
+	
+}
+
+
+.hello
+{
+	font-size: 40px;
+
+}
+
+input#recherche
+{
+	font-size: 25px;
+
+}
+
+.check
+{
+	width: 20px;
+	height: 20px;
+
+}
+
+
+#todoshermanos
+{
+	margin: 0px 0px 16px 0px;
 
 }
 
 
 #main
 {
-	background-color: #7986CB;
+	background-color:  #3f51b5;
 	margin-left: auto;
 	margin-right: auto;
 	width: 600px;
@@ -15,7 +50,7 @@ body
 	border-radius: 5px;
 }
 
-#recherche
+#todo
 
 {
 	margin-left: auto;
@@ -24,11 +59,26 @@ body
 
 }
 
+#language
+{
+	background-color: #bdbdbd;
+
+}
+
+.description
+{
+
+	background-color: #9e9e9e;
+
+}
+
 ul
 
 {
 	list-style-type: none;
+	padding: 0;
 }
+
 
 #java
 
@@ -43,8 +93,9 @@ ul#footer li
 
 }
 
-#aside
+#recherche
 {
-	border: solid 3px black;
+	width: 296px;
+	height: 40px;
 
 }
