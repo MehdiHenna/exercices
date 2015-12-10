@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    	<head>
+        	<meta charset="utf-8" />
+        	<link rel="stylesheet" href="Semantic-UI-CSS-master/semantic.css" />
+        	<title>CV</title>
+        	<script src="app.js"></script>
+        	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+        	
+    	</head>
+
+<body>
+	<div id="bloc">
+	<header>
+		<h1>CV Hervé</h1>
+		<img src="patissier.png"></img>
+	</header>
+	<div class="navbar">
+	<nav>
+		<ul>
+			<li><a href="cvherve.html">Herve</a></li>
+			<li><a href="cvmehdi.html">Mehdi</a></li>
+			
+		</ul>		
+	</nav>
+	</div>
+	<article>
+	<h2>Perez Herve</h2>
+
+	<p>Saint Orens de gameville</p>
+	<p>mail:perezherve31@gmail.com</p>
+	<p>tel:62 22 82 50 34</p>
+
+	<h3>experiences professionnels</h3>
+
+	<p>patissier 21 ans dernier entreprise table de la fontaine toulouse 2012-2013</p>
+	<p>commercial formation 2014</p>
+
+	</div>
+
+	 <script>
+	 	$(function() {
+	 		$('li').hide();
+
+
+
+
+
+	 	});	
+
+
+
+	 </script>	
+
+</body>
+
+
+
+
+</html>

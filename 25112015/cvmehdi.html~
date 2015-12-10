@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+  
+  <meta charset="utf-8">
+  <title>Titre de la page</title>
+  
+  <link rel="stylesheet" href="style.css">
+
+  </head>
+
+  
+ <body>
+
+	<img src="chat-mignon-petit-chaton-therapie-detente.jpg"></img>
+	
+		<header>
+				
+				<h1 class="col-md-12">CV Mehdi</h1>
+	
+	
+	
+		<div id="barre" class="col-md-12"></div>
+	
+	</header>
+	<nav>
+		<ul>
+			<li><a href="cvherve.html">Herve</a></li>
+			<li><a href="cvmehdi.html">Mehdi</a></li>
+			
+		</ul>
+	</nav>
+	<article>	
+			
+				
+				<div class="col-md-12 col-sm-12 col-xs-12  bordure">
+					
+					<h2 class="col-md-10 col-sm-9 col-xs-12 mot"> CV </h2>
+						
+						<p class="col-md-2 col-sm-3 col-xs-12">
+							
+							<button type="button" class="btn btn-default btn-lg title1" id="button1">
+								
+								Cliquez ici <span id="icon1" class="glyphicon glyphicon-option-vertical"></span>
+							
+							</button>
+						
+						</p>
+				
+				</div>
+			
+				<div id="CV" class="col-md-12 col-xs-12">	
+					
+					<div class="col-md-12 col-xs12 exp">	
+						
+						<h3 class="col-md-12 ">Mon Expérience</h3>
+							
+								<h5 class="col-md-12"><strong>2008- 2015	Assistant Technique</strong>,<em> SCIC ADHLF (Ramonville, 31)</em></h5>
+									
+									<ul class="col-md-12 col">
+										
+										<li>Accueil Physique et téléphonique</li>
+										<li>Analyse des demandes/sollicitation/requête, rédaction et suivi des propositions commerciales</li>
+										<li>Gestion de portefeuille client, traitement des réclamations</li>
+										<li>Communication au client des planning d’intervention à domicile</li>
+										<li>Déclarations sociales</li>
+										<li>Facturation et gestion des encaissements</li>
+										<li>Liaison avec l’organisme bancaire</li>
+										<li>Archivage</li>
+										<li>Assistance ressources humaines</li>
+										<li>Gestion de la CVthèque</li>
+										<li>Déclaration URSSAF</li>
+										<li>Planification des visites médicales</li>
+										<li>Gestion des plannings et répartitions des taches</li>
+										
+									</ul>
+						
+								<h5 class="col-md-12"><strong>2005 Agent administratif</strong>,<em> Conseil Général (toulouse)</em></h5>
+									
+									<ul class="col-md-12">
+										
+										<li>Archivage et classement des dossiers usagers </li>
+									
+									</ul>	
+								
+								<h5 class="col-md-12"><strong>2004 Agent administratif</strong>,<em> Conseil Général (toulouse)</em></h5>	
+									
+									<ul class="col-md-12">
+										
+										<li>Archivage et classement des dossiers usagers </li>
+									
+									</ul>
+						
+					</div>	
+								
+							
+							<h3 class="col-md-12">Mes Formations</h3>	
+								
+								<ul class="col-md-12">
+									
+									<li>BTS Assistant de gestion PME PMI<br /><em>2008-2010 - Centre de Formation ADRAR (Ramonville, 31)</em></li>
+									<li>Licence sociologie économie – 2 années<br /><em>2006 - 2008 – Faculté du tirail (Ramonville, 31)</em></li>
+									<li>Baccalauréat STT option comptabilité<br /><em>2006 - Lycée Sainte Marie de Devers (Ramonville, 31)</em></li>
+								
+								</ul>
+						
+					<div class="col-md-12 exp">	
+							
+							<h3 class="col-md-12">Mes Compétences</h3>
+								
+								<ul class="col-md-12">
+									
+									<li>Maitrise Office 2010</li>
+									<li>Pack Ciel</li>
+									<li>Apologic ( gestion planings, facturation et paye)</li>
+									<li>Internet</li>
+									<li>Html5 css3</li>
+									<li>javacript et Jquery</li>
+									<li>Bootstrap</li>
+								
+								</ul>
+					
+					</div>
+			
+			
+				
+	
+	</article>
+	
+	
+				
+				
+
+				
+				
+
+				
+	
+			</div>		
+	
+	
+				
+	</div>
+	
+ </div>
+ </div>
+		
+  </body>
+  
+
+  
+ </html>

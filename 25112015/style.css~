@@ -1,0 +1,37 @@
+body
+{
+	background-image: url(concrete_seamless.png);
+	width:600px;
+	margin:auto; 
+}
+
+
+header
+{
+	
+	outline:1px red solid;
+}
+
+
+
+#navherve
+{	
+	color:#fff;
+	outline:1px red solid;	
+}
+
+#bar li
+{
+	display: inline-block;
+	margin: 0px;
+	padding:0px;
+}
+	
+ul li
+{
+	list-style-type : none;
+}
+article
+{
+	
+}
